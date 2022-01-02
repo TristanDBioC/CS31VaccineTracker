@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VaccineTracker", "VaccineTracker\VaccineTracker.vcxproj", "{3752F943-BD20-4E32-98DC-A56F95E3D5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Debug|x64.ActiveCfg = Debug|x64
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Debug|x64.Build.0 = Debug|x64
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Debug|x86.Build.0 = Debug|Win32
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Release|x64.ActiveCfg = Release|x64
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Release|x64.Build.0 = Release|x64
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Release|x86.ActiveCfg = Release|Win32
+		{3752F943-BD20-4E32-98DC-A56F95E3D5B2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4080039C-0C9B-4489-AC88-C967817B882A}
+	EndGlobalSection
+EndGlobal
